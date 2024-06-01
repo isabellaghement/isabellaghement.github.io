@@ -1,0 +1,72 @@
+---
+title: Resources
+---
+
+{{< include /_contact_margin.qmd >}}
+
+## Learning R
+
+If you are currently learning R, you will definitely want to read this page on computational and visualisation layers in R:
+
+[More about visualization layers](layers/index.html){.btn .btn-outline-primary .btn role="button" .btn-page-header .btn-xs}
+
+## "Communicating Statistical Findings to Consulting Clients Operating in a Decisionmaking Climate: Best and Worst Practices ", JSM 2014
+
+The following webpage contains resources dedicated to the JSM 2014 contributed panel session "Communicating Statistical Findings to Consulting Clients Operating in a Decisionmaking Climate: Best and Worst Practices":
+
+- http://wwww.ghement.ca/jsm2014.html.
+
+JSM stands for the *Joint Statistical Meetings*, the largest conference for statisticians in North America, organized annually by the American Statistical Association.
+
+
+## "An Introduction to the Statistical Software Package R" - Pacific Forestry Centre (Feb. 4-6, 2014)
+
+The following materials are intended for the participants in our introductory R course offered at the Pacific Forestry Centre in Victoria, British Columbia. To open these materials in your Internet browser, please click on the corresponding links. To save these materials on your computer, please right click on the corresponding links using your computer mouse and then choose the option "Save target as...".
+
+- Reading .dat files in R
+- Mann-Kendall Trend Test in R
+
+## "A Basic Course on Data Analysis Using R" - November 7-8, 2013
+
+The following materials are intended for the participants in our most recent basic R course (November 7-8, 2013).
+
+To open these materials in your Internet browser, please click on the corresponding links.
+
+To save these materials on your computer, please right click on the corresponding links using your computer mouse and then choose the option "Save target as..." (or something to this effect).
+
+If you have any questions on these materials, please contact Dr. Isabella Ghement via e-mail at isabella@ghement.ca for help and clarifications.
+
+**Here are the materials:**
+
+- Customizing R graphics using the text() function
+ Changing the position of a legend in a basic R graph
+- Reading Time-Stamped Dates in R and FileWithDates.csv
+**(You need to right-click on the link titled FileWithDates.csv in order to save the file on your computer.)**
+- Dealing with large numbers on the vertical axis of an R scatterplot
+- Dealing with very small numbers when constructing R plots
+
+## "Secrets to Effective Communication for Statistical Consultants"(August 5, 2013)
+
+At the Joint Statistical Meetings (JSM) 2013 organized by the American Statistical Association in Montreal, Dr. Isabella Ghement organized and chaired an invited panel session on secrets to effective communication for statistical consultants.
+
+The slides and handouts for this session are available for download below.
+
+- Secrets to Effective Communication for Statistical Consultants - JSM 2013
+- Handout Prepared by Dr. David Bristol
+- Handout Prepared by Dr. Elena Randou (Rantou)
+- Handout Prepared by Dr. Jack Schuenemeyer
+
+Please contact Dr. Ghement or any of the invited session panelists in case you have any questions or comments regarding this session.
+
+
+## "A Crash R Course on Statistical Graphics"(February 21, 2013)
+
+On February 21, 2013, we offered a half-day continuing education course at the Conference on Applied Statistical Practice organized by the American Statistical Association in New Orleans, Louisiana. The course was titled "A Crash R Course on Statistical Graphics" and was well received by the participants.
+
+The instructions, slides and data sets utilized during the course are available for download below.
+
+- Instructions for "A Crash R Course on Statistical Graphics" (pdf file)
+- Slides for "A Crash R Course on Statistical Graphics" (pdf file)
+- Ozone Data Set for "A Crash R Course on Statistical Graphics" (csv file)
+- Air Quality Data Set for "A Crash R Course on Statistical Graphics" (csv file)
+ 

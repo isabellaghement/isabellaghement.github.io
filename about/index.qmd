@@ -1,0 +1,79 @@
+---
+title: About Us
+---
+
+{{< include /_contact_margin.qmd >}}
+
+## Isabella R. Ghement, Ph.D.
+
+Isabella is the principal of Ghement Statistical Consulting Company. Isabella obtained her Ph.D. in Statistics from the University of British Columbia in 2005. During her time at the University of British Columbia, Isabella completed courses on the techniques of statistical consulting and organized and presented sold-out workshops on the statistical software R. Isabella was also a sessional lecturer at the Sauder School of Business, University of British Columbia, teaching both basic and advanced statistics with applications (2007 - 2012).
+
+
+## Isabella's Curriculum Vitae
+
+- [View in Word](documents/Curriculum_Vitae_Isabella_R_Ghement_March_2016.docx)
+- [View in PDF](documents/Curriculum_Vitae_Isabella_R_Ghement_March_2016.pdf)
+
+
+## Isabella's Publications
+
+### Papers
+
+#### Incorporating multiple interventions in meta-analysis: an evaluation of the mixed treatment comparison with the adjusted indirect comparison.
+
+- Authors:  Christopher O'Regan, Isabella Ghement , Oghenowede Eyawo , Gordon H Guyatt and Edward J Mills.
+- Details:   Trials, 10:86.
+- View:   [in PDF](http://www.trialsjournal.com/content/pdf/1745-6215-10-86.pdf)
+
+#### Seasonal Confounding and Residual Correlation in Analyses of Health Effects of Air Pollution.
+
+- Authors:   Isabella R. Ghement, Nancy E. Heckman and A. John Petkau.
+- Details:  Environmetrics, Vol. 18, Issue 4, pp. 375-394, June 2007.
+- View:   [Abstract](http://www3.interscience.wiley.com/cgi-bin/abstract/113453021/ABSTRACT)
+
+#### Robust Estimation of Error Scale in Nonparametric Regression Models.
+
+- Authors:   Isabella Ghement, Marcelo Ruiz and Ruben Zamar.
+- Details:   Journal of Statistical Planning and Inference, in press.
+
+### Manuscripts Submitted for Publication
+
+#### Estimating the power of indirect comparisons: A simulation study.
+
+- Authors:   Edward J. Mills, Isabella Ghement, Christopher O'Regan and Kristian Thorlund.
+- Details:   PLOS One.
+
+#### Multiple Treatment Comparison Meta-Analyses in Oncology: A step forward into complexity.
+
+- Authors:   Edward Mills, Nick Bansback, Isabella Ghement, Kristian Thorlund, Steven Kelly, Milo Puhan and James Wright.
+- Details:   Journal of Clinical Oncology.
+  
+### Technical Reports
+
+#### Seasonal Confounding and Residual Correlation in Analyses of Health Effects of Air Pollution.
+
+- Authors:   Isabella R. Ghement, Nancy E. Heckman and A. John Petkau.
+- Details:   Technical Report # 217, Department of Statistics, University of British Columbia.
+- View:   [in PDF](documents/217.pdf)
+
+#### Robust Estimation of Error Scale in Nonparametric Regression Models.
+
+- Authors:   Isabella Ghement, Marcelo Ruiz and Ruben Zamar.
+- Details:   Technical Report # 218, Department of Statistics, University of British Columbia.
+- View:   [in PDF](documents/218.pdf)
+
+#### Inference in Partially Linear Models with Correlated Errors.
+
+- Authors:   Isabella Ghement and Nancy Heckman.
+- Details:   Technical Report # 222, Department of Statistics, University of British Columbia.
+- View:   [in PDF](documents/222.pdf)
+
+### Unpublished Manuscripts
+
+#### Inference in Partially Linear Models with Correlated Errors. Ph.D. Thesis. University of British Columbia. 2005.
+
+- Author:   Isabella Ghement
+- Thesis Advisor: Dr. Nancy Heckman, Department of Statistics, University of British Columbia.
+
+
+ 

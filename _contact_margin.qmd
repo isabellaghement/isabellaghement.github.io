@@ -1,0 +1,15 @@
+::: {.column-margin }
+<div class="contact-margin">
+## Contact
+
+<img src="/assets/IsabellaGhementPhoto.jpeg"/>
+
+**Ghement Statistical Consulting Company Ltd.** <br />
+*Isabella Ghement, Ph.D. <br /><br />*
+301-7031 Blundell Road <br />
+Richmond, British Columbia <br />
+Canada, V6Y 1J5 <br /><br />
+{{< fa phone title="phone" >}} [604-767-1250](tel:604-767-1250) <br />
+{{< fa envelope title="envelope" >}} [info@ghement.ca](mailto:info@ghement.ca) <br />
+</div>
+:::

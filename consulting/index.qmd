@@ -1,0 +1,72 @@
+---
+title: Statistical Consulting
+---
+
+{{< include /_contact_margin.qmd >}}
+
+We are pleased to offer you expert statistical consulting advice for your data-driven needs, so that you can extract knoweldge and insights from your data and use them to make better decisions.
+
+In particular, we can help you to:
+
+- Design efficient studies before collecting your data;
+- Prepare/review study proposals;
+- Devise an effective plan for analyzing your data;
+- Identify statistical techniques suitable for analyzing your data;
+- Clean and manage your data;
+- Conduct basic and advanced statistical analyses;
+- Formulate, evaluate and refine statistical models;
+- Produce compelling data visualizations;
+- Report and interpret the findings of data analyses;
+- Formulate study conclusions that reflect the study design, research objectives and statistical findings;
+- Prepare and review scientific manuscripts;
+- Design and implement Monte Carlo simulation studies;
+- Write user-friendly and interactive R programs which customize or automate statistical analyses and reporting.
+
+## Methodological Areas
+
+The following methodological areas reflect the wide range of consulting projects we have worked on for our clients:
+
+- Mixed Treatment Comparisons;
+- Meta-Analysis;
+- Clinical Trials and Cohort Studies
+- Bayesian Applications
+- Mixed Effects Models
+- Generalized Estimating Equations
+- Generalized Linear Models
+- Generalized Additive Models
+- Survival Analysis
+- Competing Risks
+- Manuscript Preparation and Writing
+- Designing and Conducting Monte Carlo Simulation Studies.
+- R Programming.
+- Graphical User Interface (GUI) Development.
+
+
+## Payment
+
+We will be pleased to accept credit card and cheque payments for our statistical consulting services.
+
+If your employer or department requires you to receive an invoice before making your payment, please just contact us via e-mail at [info@ghement.ca](info@ghement.ca) or telephone at [604-767-1250](tel:604-767-1250) or fax at [604-270-3922](tel:604-270-3922) and we will be happy to send you an invoice.
+
+Otherwise, please click on our secure Pay Now button below to pay by credit card or with your **PayPal** account.
+
+```{=html}
+<table style="width:100%">
+       <tr>
+         <td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
+         <td>
+
+
+           <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+           <input type="hidden" name="cmd" value="_s-xclick">
+           <input type="hidden" name="hosted_button_id" value="BLJFESUKSRN9L">
+           <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_paynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+           <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
+           </form>
+
+
+         </td>
+         <td>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </td>
+       </tr>   
+</table>
+```

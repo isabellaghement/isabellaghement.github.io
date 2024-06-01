@@ -1,0 +1,18 @@
+---
+title: Contact
+---
+
+:::{.callout-note} 
+## Contact us for your statistical consulting and training needs!
+:::
+
+If you have any questions or comments about any of our training or consulting services, please contact us and we will be happy to help you. Our contact information is listed below.
+
+**Ghement Statistical Consulting Company Ltd.** <br />
+301-7031 Blundell Road <br />
+Richmond, British Columbia <br />
+Canada, V6Y 1J5 <br />
+Tel: 604-767-1250 <br />
+E-Mail: [info@ghement.ca](mailto:info@ghement.ca) <br />
+Web: [www.ghement.ca](tel:www.ghement.ca) <br />
+

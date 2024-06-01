@@ -1,0 +1,39 @@
+---
+title: Case Studies
+---
+
+{{< include /_contact_margin.qmd >}}
+
+## Case Study: Environmental Correlates of Adolescent Obesity in the United States
+
+What proximal (home) and distal (neighborhood) environmental factors affect adolescent obesity in the United States and how can obesity interventions be structured to target these factors?
+
+We undertook a statistical consulting project which required us to use the Structural Equation Modeling (SEM) framework to formulate a model of environmental correlates of adolescent obesity, test the fit of this model to the data, identify direct and indirect effects of proximal and distal environmental factors on adolescent obesity, and determine reliabilities for latent constructs such as access to physical activity, neighborghood conditions, social capital home sedentary behavior and physical activity. The model utilized data from a descriptive, cross-sectional study, of 39,542 children aged 11 - 17 years, collected using the 2007 National Survey of Children's Health.
+
+The findings produced by the statistical analyses we conducted for this project suggested that obesity interventions concerning adolescents should target not only adolescents' sedentary behavior and physical activity but also parents' perceptions of safety, access to physical activity and the neighborhood condition.
+
+The project resulted in the following scientific publication:
+
+**A Model of Environmental Correlates of Adolescent Obesity in the United States**
+
+- Authors:   Kathryn C. Nesbit, D.Sc., Thubi H. Kolobe, Ph.D., Susan B. Sisson, Ph.D., and Isabella R. Ghement, Ph.D.
+- Details:  *Journal of Adolescent Health. 2014 Sep; 55(3):394-401. doi: 10.1016/j.jadohealth.2014.02.022. Epub 2014 Apr 18.*
+- View:   [Abstract](http://www.jahonline.org/article/S1054-139X(14)00111-6/abstract).
+
+## Case Study: Efficacy of a Minimal Dose School Fruit and Vegetable Snack Intervention
+
+Fruit and vegetable consumption is important to health but many Canadian children are not consuming enough fruits and vegetables. The provision of free fruit and vegetables at school over a school year can increase fruit and vegetable intake but the associated costs may hinder/prohibit adoption or sustained implementation of this approach.
+
+We took on a statistical consulting project which helped evaluate the impact of a minimal dose free school fruit and vegetable snack intervention on children's fruit and vegetable knowledge, self-efficacy and intake. The project required us to analyse data from a pre-post quasi-experimental study, in which 10 schools were assigned to the Intervention group and 10 schools were assigned to the Control group. The schools in the Intervention group were registered to begin receiving the British Columbia School Fruit and Vegetable Nutrition Program during the winter term (4 months of intervention, 14 servings, 2 times/week every second week). The schools in the Control group were usual practice schools and were matched by geographic area with the schools in the Intervention group. Fruit and vegetable intake, self-efficacy and knowledge were assessed for select children in both groups using a validated 24-hour recall and food frequency questionnaire, a validated fruit and vegetable efficacy instrument and program specific questions.
+
+For this project, we used a mixed effect ANCOVA with a fixed effect for treatment group and a random effect for school nested within treatment group to analyse changes over time in children's fruit and vegetable knowledge, intake and self-efficacy.
+
+The findings of our statistical analyses for this project suggested that children in this study were below Canadian guideline levels for fruit and vegetable consumption and that the 14 servings of fruits and vegetables over 4 months were not enough to change fruit and vegetable knowledge, intake and self-efficacy. Based on these findings, a recommendation was made by the study investigators that the total dose of fruit and vegetables needs to be higher than 14 servings and that the frequency of delivery of these servings may also influence impact.
+
+The project resulted in the following peer-reviewed research article:
+
+**Efficacy of a Minimal Dose School Fruit and Vegetable Snack Intervention**
+
+- Authors:   Naylor PJ, McConnell J, Rhodes RE, Barr SI, Ghement I and Scott J.
+- Details:   *Journal of Food and Nutritional Disorders 2014, 3:4 doi: 10.4172/2324-9323.1000147.*
+- View:   [Abstract](http://scitechnol.com/efficacy-of-a-minimal-dose-school-fruit-and-vegetable-snack-intervention-B1W5.php?article_id=2289).

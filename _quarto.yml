@@ -1,0 +1,80 @@
+# website settings
+website:
+  title: "Ghement Statistical Consulting"
+  description: "We provide expert statistical consulting, R training, R programming, statistical analyses and data analyses services to researchers. data practitioners and graduate students."
+  
+  favicon: assets/favicon.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    logo: assets/logo.png
+    
+    # your sub-pages
+    left:
+      - text: "About Us"
+        href: about/index.qmd
+      - text: "Consulting"
+        href: consulting/index.qmd
+      - text: "Training"
+        href: training/index.qmd
+      - text: "Case Studies"
+        href: case-studies/index.qmd
+      - text: "Testimonials"
+        href: testimonials/index.qmd
+      - text: "Resources"
+        href: resources/index.qmd
+      - text: "Contact Us"
+        href: contact/index.qmd
+    right:
+      - icon: envelope
+        aria-label: email
+        href: "mailto:info@ghement.ca"  
+      - icon: linkedin
+        aria-label: linkedin
+        href: "https://www.linkedin.com/in/isabella-ghement-bb01187/"
+      - icon: twitter
+        aria-label: twitter
+        href: "https://x.com/IsabellaGhement"
+      - icon: telephone
+        aria-label: phone
+        href: "tel:604-767-1250"
+  
+  
+
+# Don't touch unless you know what you are doing :) ------------
+  search: false
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2024 Isabella Ghement</span>
+    center: |
+      <span class="faux-block">Ghement Statistical Consulting Company Ltd.</span>
+    right: |
+      <span class="faux-block"><a href="privacy/index.html">Privacy Policy</a></span>
+
+project:
+  type: website
+  output-dir: docs
+  
+  resources:
+    - ".htaccess"
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - cosmo
+      - styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    footnotes-hover: true

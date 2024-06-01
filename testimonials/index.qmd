@@ -1,0 +1,36 @@
+---
+title: Testimonials
+---
+
+{{< include /_contact_margin.qmd >}}
+
+We value all of our clients and strive to provide them with excellent statistical consulting and training services. The following are client testimonials from some of our current and past consulting clients.
+
+
+---
+
+> *Dr. Ghement has worked on multiple projects for us over the years and her work has always been of the highest-quality. What we appreciated the most about working with Dr. Ghement was her ability to quickly grasp what we were trying to determine from large datasets and then present the statistical analysis that would provide the most meaning. Dr. Ghement was very detailed, enthusiastic, helpful and extremely competent. Everything was well-thought out and planned and the final material was presented in a very professional, organized and meaningful way. We would highly recommend her.*
+
+--- **Chris Springate**, PhD (Pharm), RPh, Chief Executive Officer of ARC Medical Devices Inc.
+
+
+---
+
+
+> *I have worked with Isabella many times over the last few years. Isabella's statistical expertise has been invaluable and all of the analysis she conducted has been of exceptional quality and professionally presented. What makes working with Isabella such a success is her incredible attention to detail, perceptive insights on methodological aspects of projects, commitment to meeting timelines, and her very patient and very clear explanation of complicated statistical concepts to both statistical and layperson audiences. I definitely recommend working with Isabella!*
+
+--- **Sarah Goring**, Director, Epidemiology, ICON plc (previously Oxford Outcomes)
+
+ 
+---
+
+> *Isabella recently provided statistical consultation for an observational study involving both retrospective and cross-sectional data. She did a great job spending time to really understand our research question. She reviewed our statistical analysis plan and provided feedback for suggestions for ways to handle missing data as well as suggestions for alternative analyses that may better answer our objectives. During the analysis she developed multiple models to ensure she was selecting the model with the best fit. Results from all models were clearly presented with additional figures, with a clear explanation of why specific variables were included in the final model. The selection of exploratory variables and all decisions regarding the models were done in consultation with our team so that we could provide input and have the data presented in the most meaningful way. Throughout the project Isabella had so much enthusiasm for her work, was very responsive and incredibly friendly, and was happy to talk through any issues or questions that arose. It was a real pleasure working with Isabella.*
+
+--- **Suzanne Lane**, Lead Epidemiologist, ICON plc (previously Oxford Outcomes)
+
+ 
+---
+
+> *As a sport science consultant and Doctoral candidate at the University of Calgary, I sought Isabella's expertise with statistics and R programming for a research project. Isabella arranged a Skype consultation with me and quickly identified my research problem. She took her time to understand my needs and she was very flexible in helping me find potential solutions. We then worked via Skype over several sessions to build out a plan for my analysis. There were no limitations with our online interactions - she was able to synthesize the material I needed to move forward with my analysis and she was always prepared for our sessions with interesting information and solutions to problems. She made a very complex topic simple to understand and was very supportive in helping me learn not only what I needed to do but why and how I needed to do it. She sent along reading material, pointed me in the direction of additional resources and provided very helpful and informative emails that helped answer my questions in a timely manner. Overall, I was extremely satisfied with my experience. I think this took my statistical analysis to another level but most importantly, I learned a lot about the statistical approach I took. I would highly recommend Isabella to anyone looking for a qualified and experienced statistician who is also a great communicator and teacher. Thanks Isabella for all your help!*
+
+--- **Matt Jordan**, Director of Strength and Conditioning, Canadian Sport Institute, Calgary

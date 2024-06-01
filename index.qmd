@@ -1,0 +1,72 @@
+
+::: {.column-screen}
+```{=html}
+<div class="hero">
+<div class="hero-content">
+    <h1>Ghement Statistical Consulting</h1>
+    <p>We are an independent statistical consulting and training firm located in Richmond, British Columbia, Canada, serving both local and international clients. 
+Our mission is to help you solve your statistical problems by developing practical solutions which will deliver maximum of insight from your data and enable you to make better decisions.</p>
+    <a href="contact/index.html"><button>Contact Us!</button></a>
+</div>
+<img src="assets/hero_img.svg" alt="Hero Image">
+</div>
+
+<svg viewBox="0 0 100 35" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffafbd;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#ffc3a0;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  <!-- Second Gaussian bell curve -->
+  <path d="M0,20 Q10,5 20,20 T40,20 T60,20 T80,20 T100,20" fill="none" stroke="url(#gradient)" stroke-width="1" />
+  <!-- Third Gaussian bell curve -->
+  <path d="M0,10 Q10,0 20,10 T40,10 T60,10 T80,10 T100,10" fill="none" stroke="url(#gradient)" stroke-width="1" />
+</svg>
+
+```
+:::
+
+## Statistical Consulting Services
+
+We are pleased to offer you statistical consulting support in the following areas:
+
+#. Study Design
+#. Data Management
+#. Data Analysis
+#. Statistical Modeling
+#. Statistical Graphics
+#. Scientific Manuscript Preparation
+#. R Programming
+#. Statistical Software Development
+
+Please contact us via e-mail ([info@ghement.ca](mailto:info@ghement.ca)) or phone ([604-767-1250](tel:604-767-1250)) with a brief description of your statistical consulting problem, needs, deliverables, and deadlines. We will be in touch with you to determine how we can best help you.
+
+## Statistical Training Services
+
+We regularly offer hands-on, face-to-face training sessions devoted to the open-source statistical software package R.
+
+Our trainer, Dr. Isabella Ghement, is also an accredited RStudio training partner.
+
+Our previous public R course offerings include the following:
+
+#. A Basic Course in R and Data Analysis (Vancouver, Canada, October 21-23, 2015)
+#. R Course on Trend Detection and Analysis (Vancouver, Canada, May 13-15, 2015)
+#. Elegant statistical graphics with R and ggplot2 (Vancouver, Canada, May 29-30, 2014)
+#. Take Your R Skills to the Next Level (Boston, USA, August 4, 2014)
+
+All of our training courses are designed to enable the course participants to acquire practical skills which they can apply immediately to their own work. The course participants receive an extensive set of written notes as well as 30-day technical support following the course.
+
+If you would like us to present one of our R training courses privately at your site, please let us know your specific training needs by e-mail ([info@ghement.ca](mailto:info@ghement.ca)) or phone ([604-767-1250](tel:604-767-1250)). We would be pleased to work with you to customize our course offerings to your needs.
+
+Alternatively, if you would like us to keep you informed about our upcoming training events and courses, please e-mail us at [info@ghement.ca](mailto:info@ghement.ca) with your request. In your request, please be sure to include the following information: *"I would like to be informed by e-mail by Ghement Statistical Consulting Company Ltd. about future public training events and courses."*
+
+
+## Case Studies
+
+Case studies illustrating the scope and output of our statistical consulting work are posted under the [case studies](case-studies/index.html) section of the website.
+
+
+## Resources
+
+Several resources of potential interest to our website visitors are posted under the [resources](resources/index.html) section of the website.

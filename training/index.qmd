@@ -1,0 +1,58 @@
+---
+title: Training
+---
+
+{{< include /_contact_margin.qmd >}}
+
+## How can we help you?
+
+We provide you with expert training on the statistical software package R, which is freely available and offers you tremendous graphical and analytical capabilities along with a powerful programming environment.
+
+We also provide you with 30 days of free course-related technical support following your training with us.
+
+
+## How will you benefit from our training?
+
+Our training will enable you to attain your data analysis goals as efficiently, timely and stress-free as possible.
+
+
+## Public Training
+
+Our public training is typically delivered to you in the form of three-day workshops.
+
+Upcoming workshops are advertised on this website. Please let us know if you are interested in attending our upcoming R workshops and we would be happy to keep you updated on their dates and offer you priority pre-registration for the workshop of your choice.
+
+Workshops consist of a series of short presentations and demonstrations followed by hands-on, interactive sessions.
+
+As a workshop participant, you will be provided with:
+
+- A bound copy of the Workshop Notes;
+- A variety of Workshop Handouts;
+- A CD-ROM containing the electronic version of the Workshop Notes and Workshop Handouts, along with additional resources and all exercises used during the workshop;
+- Individual attention and a supportive learning environment;
+- 30 days of free course-related technical support following the workshop.
+
+## Private Training
+
+We would be very pleased to offer private R workshops customized for your group at your premises. Please contact us to discuss the rates and request references.
+
+The advantages of private training include:
+
+- Customization of content and delivery: Our private training is centered on topics that interest you and is specifically tailored to your skills and needs;
+- Flexible schedule and location: Our private training takes place when and where it is convenient for you;
+- Value: Our private training is a time-effective and cost-effective solution that will enable you to better tackle the data projects you are working on;
+- Technical support: We offer you 30 days of free software-related technical support following your private training with us.
+
+
+We have offered private training to clients such as:
+
+- [Fisheries and Oceans Canada (DFO)](http://www.dfo-mpo.gc.ca/index-eng.htm)
+- [Pacific Salmon Commission (PSC)](http://www.psc.org/)
+- [Environment Canada](http://www.weatheroffice.gc.ca/canada_e.html)
+- [Ministry of Forests and Range, British Columbia, Canada](http://www.gov.bc.ca/for/)
+- [Ballard Power Systems](http://www.ballard.com/)
+- [Child and Family Research Institute (CFRI)](http://www.cfri.ca/)
+- [Vancouver Coastal Health Research Institute](http://www.vchri.ca/s/Home.asp)
+- [Rescan Environmental Services Ltd.](http://www.rescan.com/)
+- Department of Biology, Simon Fraser University
+- Pacific Forest Research Centre

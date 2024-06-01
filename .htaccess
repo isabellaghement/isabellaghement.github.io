@@ -1,0 +1,8 @@
+Redirect "/aboutus.html" "/about/index.html"
+Redirect "/consulting.html" "/consulting/index.html"
+Redirect "/training.html" "/training/index.html"
+Redirect "/casestudies.html" "/case-studies/index.html"
+Redirect "testimonials/.html" "/testimonials/index.html"
+Redirect "/resources.html" "/resources/index.html"
+Redirect "/contactus.html" "/contact/index.html"
+Redirect "/privacy.html" "/privacy/index.html"
