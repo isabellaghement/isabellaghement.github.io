@@ -7,5 +7,5 @@
 .DS_Store
 
 designs/
-*.html
-*_files
+_contact_margin.html
+_contact_margin_files
