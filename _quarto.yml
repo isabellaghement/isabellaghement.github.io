@@ -10,8 +10,12 @@ website:
   twitter-card: 
     site: "@IsabellaGhement"
     creator: "@IsabellaGhement"
-  open-graph: true
-  
+    image: "/assets/social_card.png"
+    card-style: "summary_large_image"
+    
+  open-graph: 
+    image: "/assets/social_card.png"
+    
   # start of the navigation bar at the top of the website
   navbar:
     pinned: true
