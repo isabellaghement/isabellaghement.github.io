@@ -3,16 +3,14 @@ website:
   title: "Ghement Statistical Consulting"
   description: "We provide expert statistical consulting, R training, R programming, statistical analyses and data analyses services to researchers. data practitioners and graduate students."
   
-  favicon: assets/favicon.png
-  image: assets/social_card.png
+  favicon: /assets/favicon.png
+  image: /assets/social_card.png
   
   site-url: https://marvinschmitt.github.io/ghement-dot-ca/
   twitter-card: 
     site: "@IsabellaGhement"
     creator: "@IsabellaGhement"
-    image: assets/social_card.png
-  open-graph: 
-    image: assets/social_card.png
+  open-graph: true
   
   # start of the navigation bar at the top of the website
   navbar:
