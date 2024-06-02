@@ -7,9 +7,12 @@ website:
   image: assets/social_card.png
   
   site-url: https://marvinschmitt.github.io/ghement-dot-ca/
-  twitter-card: true
-  open-graph: true
-  
+  twitter-card: 
+    site: "@IsabellaGhement"
+    creator: "@IsabellaGhement"
+    image: assets/social_card.png
+  open-graph: 
+    image: assets/social_card.png
   
   # start of the navigation bar at the top of the website
   navbar:

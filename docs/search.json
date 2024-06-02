@@ -256,7 +256,7 @@
     "href": "resources/layers/index.html#summary",
     "title": "Layers in R",
     "section": "Summary",
-    "text": "Summary\nNext time you see or write R code which involves computational and/or visualization layers, you should be able to recognize that all that code is doing is building up onions - red, white or a mixture of red and white - from their innermost layer to their outermost one."
+    "text": "Summary\nNext time you see or write R code which involves computational and/or visualization layers, you should be able to recognize that all that code is doing is building up onions – red, white or a mixture of red and white – from their innermost layer to their outermost one."
   },
   {
     "objectID": "about/index.html",
